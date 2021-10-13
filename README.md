@@ -3,12 +3,12 @@
 ## Quick list about me:
 - I'm a student @ [KIT][kit] in Karlsruhe, Germany
 - I'm a working student for [Objektkultur][objektkultur]
-- My Main focus is Web Development
+- My main focus is Web Development
 - I love learning new things and experimenting with new tools and frameworks
 - Avid Gamer @ [KIT SC eSports][kitsc] 🎮
 
 ### Connect with me:
-[<img align="left" alt="Jonas Deipenbrock | Instagram" width="29px" src="images/instagram.png" style="padding: 5px 10px 0px 0px" />][instagram]
+[<img align="left" alt="Jonas Deipenbrock | Instagram" width="29px" src="images/instagram.png" style="padding: 5px 5px 0px 0px" />][instagram]
 
 [<img align="left" alt="Jonas Deipenbrock | LinkedIn" width="33px" src="images/linkedin.png" padding="10px" />][linkedin]
 

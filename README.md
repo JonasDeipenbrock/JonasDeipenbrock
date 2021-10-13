@@ -5,7 +5,7 @@
 - I'm a working student for [Objektkultur][objektkultur]
 - My main focus is Web Development
 - I love learning new things and experimenting with new tools and frameworks
-- Avid Gamer @ [KIT SC eSports][kitsc] 🎮
+- Avid Gamer and player for [KIT SC eSports][kitsc] 🎮
 
 ### Connect with me:
 [<img align="left" alt="Jonas Deipenbrock | Instagram" width="29px" src="images/instagram.png" style="padding: 5px 5px 0px 0px" />][instagram]

@@ -23,9 +23,24 @@
 [<img align="left" alt="Jonas Deipenbrock | Vite JS" width="29px" src="images/vitejs.svg" style="padding: 5px 10px 0px 0px" />][vitejs]
 [<img align="left" alt="Jonas Deipenbrock | Three JS" width="29px" src="images/threejs.svg" style="padding: 5px 10px 0px 0px" />][threejs]
 [<img align="left" alt="Jonas Deipenbrock | Zustand JS" width="50" src="images/zustand.jpg" style="padding: 5px 10px 0px 0px" />][zustand]
+[<img align="left" alt="Jonas Deipenbrock | Azure DevOps JS" width="29" src="images/azureboards.png" style="padding: 5px 10px 0px 0px" />][devops]
+[<img align="left" alt="Jonas Deipenbrock | Azure DevOps JS" width="29" src="images/azurepipelines.png" style="padding: 5px 10px 0px 0px" />][devops]
+[<img align="left" alt="Jonas Deipenbrock | Azure DevOps JS" width="29" src="images/azurerepos.png" style="padding: 5px 10px 0px 0px" />][devops]
+[<img align="left" alt="Jonas Deipenbrock | Azure DevOps JS" width="29" src="images/github.png" style="padding: 5px 10px 0px 0px" />][github]
 
 <br />
 <br />
+
+### Some more stats about me
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasDeipenbrock&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasDeipenbrock&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### The o3s Webapp
+
+As part of an exam a fellow student and myself build a website to monitor ozone data. The code can be found [here][o3gitlab] and the website [here][o3website] 
 
 [kit]: https://www.kit.edu/index.php
 [objektkultur]: https://objektkultur.de
@@ -39,3 +54,7 @@
 [react]: https://reactjs.org
 [threejs]: https://threejs.org
 [vitejs]: https://vitejs.dev
+[devops]: https://azure.microsoft.com/de-de/services/devops/
+[github]: https://github.com
+[o3gitlab]: https://git.scc.kit.edu/synergy.o3as/o3webapp-fe
+[o3website]: http://o3web.test.fedcloud.eu

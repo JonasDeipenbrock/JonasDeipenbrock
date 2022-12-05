@@ -2,7 +2,7 @@
 
 ## Quick list about me:
 - I'm a student @ [KIT][kit] in Karlsruhe, Germany
-- I'm a working student for [Objektkultur][objektkultur]
+- I'm a working student for [itscope][objektkultur]
 - My main focus is Web Development
 - I love learning new things and experimenting with new tools and frameworks
 - Avid Gamer and player for [KIT SC eSports][kitsc] 🎮
@@ -38,12 +38,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasDeipenbrock&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### The o3s Webapp
-
-As part of an exam a fellow student and myself build a website to monitor ozone data. The code can be found [here][o3gitlab] and the website [here][o3website] 
 
 [kit]: https://www.kit.edu/index.php
-[objektkultur]: https://objektkultur.de
+[itscope]: https://www.itscope.com
 [instagram]: https://www.instagram.com/jonas.deipenbrock/?hl=de
 [linkedin]: https://de.linkedin.com/in/jonas-deipenbrock-08a794206
 [kitsc]: https://www.kitsc.gg
@@ -56,5 +53,3 @@ As part of an exam a fellow student and myself build a website to monitor ozone 
 [vitejs]: https://vitejs.dev
 [devops]: https://azure.microsoft.com/de-de/services/devops/
 [github]: https://github.com
-[o3gitlab]: https://git.scc.kit.edu/synergy.o3as/o3webapp-fe
-[o3website]: http://o3web.test.fedcloud.eu

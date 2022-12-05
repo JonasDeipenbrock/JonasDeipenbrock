@@ -2,7 +2,7 @@
 
 ## Quick list about me:
 - I'm a student @ [KIT][kit] in Karlsruhe, Germany
-- I'm a working student for [itscope][objektkultur]
+- I'm a working student for [itscope][itscope]
 - My main focus is Web Development
 - I love learning new things and experimenting with new tools and frameworks
 - Avid Gamer and player for [KIT SC eSports][kitsc] 🎮
